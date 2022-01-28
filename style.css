@@ -6,38 +6,34 @@
     }
 
     :root{
-        -----body-color: #efefef;
-        --nav-color: #f29b18;
-      --bg-color: #fff;
-      --cr:#000;
-      --imp:#626262;
-      --post:#9a9a9a;
-      --body: #E9E9E9;
-      --a:#fff;
-      --bu:#eeeeee;
-      --te:#000;
-      --se:#ccc;
-      --buton:#e4edeb;
-      --btn:#f28c18;
+    -----body-color: #efefef;
+    --nav-color: #f29b18;
+    --bg-color: #fff;
+    --cr:#000;
+    --imp:#626262;
+    --post:#9a9a9a;
+    --body: #E9E9E9;
+    --a:#fff;
+    --bu:#eeeeee;
+    --te:#000;
+    --se:#ccc;
+    --buton:#e4edeb;
+    --btn:#f28c18;
     }
     .dark-theme{
-        -----body-color: #0a0a0a;
-        --nav-color: #000;
-      --bg-color: #000;
-      --cr:#fff;
-      --imp:#f5f5f5;
-      --post:#ffffff;
-      --body: #414141;
-      --a: #000;
-      --bu:#2b2f36;
-      --te:#ffffff;
-      --se:#4B4B4B;
-      --buton:#727977;
-      --btn:#09203f;
-
-
-
-
+    -----body-color: #0a0a0a;
+    --nav-color:  #f29b18;
+    --bg-color: #000;
+    --cr:#fff;
+    --imp:#f5f5f5;
+    --post:#ffffff;
+    --body: #414141;
+    --a: #000;
+    --bu:#2b2f36;
+    --te:#ffffff;
+    --se:#4B4B4B;
+    --buton:#f28c18;
+    --btn:#09203f;
 
     }
     body{
@@ -189,10 +185,10 @@
    }
    .left-event{
     border-radius: 10px; 
-   height: 70px;
+    height: 70px;
     width: 70px; 
-   margin-right: 15px; 
-   padding-top: 10px;
+    margin-right: 15px; 
+    padding-top: 10px;
     text-align: center;
     position: relative;
     overflow: hidden;
